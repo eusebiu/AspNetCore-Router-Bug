@@ -1,0 +1,48 @@
+
+
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+bin/
+Debug/
+Release/
+UnityGenerated/
+Library/
+Assets/AssetStoreTools*
+#Assets/*.csproj
+#MolVR/*.csproj
+#MolVR/*.sln
+Build*/
+*DoNotShip/
+Sessions/
+Sessions.meta
+*_log_*.*
+*.apk
+*.log
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.user
+*.userprefs
+*.pidb
+*.suo
+*.unityproj
+*.booproj
+
+.vs/
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
